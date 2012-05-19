@@ -11,5 +11,8 @@ All the C++ examples have been compiled using CodeBlocks 10 on Windows 7 (http:/
 
 C++
 ---
-proy01: Read the number of characters in a file.
-proy02: Use functions, exceptions and files to read the number of characters in a file.
+### proy01
+Read the number of lines in a file.
+
+### proy02
+Use functions, exceptions and files to read the number of characters in a file.
