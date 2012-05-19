@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1337114101 source:c:\users\purefan\cpp\proy01\main.cpp
+	<stdio.h>
+	<io.h>
+	<fcntl.h>
+	<sys\stat.h>
+	<string.h>
+	<iostream>
+
