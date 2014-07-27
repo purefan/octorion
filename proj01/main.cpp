@@ -3,7 +3,7 @@
 #include <iostream>
 #include <fstream>
 
-// I dont want to be using std:: all the time
+// I dont want to be using std:: all the time.
 using namespace std;
 
 // This is the Main function and it will be executed when you run your program
