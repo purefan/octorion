@@ -1,4 +1,4 @@
-//Simple example of how to use functions, files and exceptions to read the
+// Simple example of how to use functions, files and exceptions to read the
 // number of bytes in a file
 #include <iostream> // Needed for cout
 #include <stdio.h> // needed for fopen
