@@ -2,7 +2,10 @@
 #include <vector>
 
 using namespace std;
-/* In this case we will look at inheritance and why it is important */
+/* In this case we will look at friendship.
+	Friendship is a class saying "I trust this function" and when a class trusts a function 
+	it allows the function to read the private attributes of its instances.
+ */
 
 /* 1. Lets say we have a class Person: */
 
@@ -36,6 +39,8 @@ void introduce(Person a){
     // 5. The only way to get the age property is by declaring this function as friend
     cout << "This is " << a.getName() << " and he is " << a.age << " y.o.";
     // 6. Which is what we did in 2.
+	// without telling the class to befriend the function introduce this function couldn't
+	// read the private property
 }
 
 int main(){

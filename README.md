@@ -11,8 +11,17 @@ All the C++ examples have been compiled using CodeBlocks 10 on Windows 7 (http:/
 
 C++
 ---
-### proy01
+### proj01
 Read the number of lines in a file.
 
-### proy02
+### proj02
 Use functions, exceptions and files to read the number of characters in a file.
+
+### proj03
+Basics of class declaration and how to use clases
+
+### proj04
+Friendship between a class and a function
+
+### proj05
+Inheritance and two examples of constructors within inheritance
