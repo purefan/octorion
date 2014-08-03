@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1407108814 source:c:\users\miguel\documents\github\octorion\ch01\main.cpp
+	<iostream>
+	<fstream>
+
